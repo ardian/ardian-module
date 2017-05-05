@@ -1,0 +1,19 @@
+{
+  "name": "ardian",
+  "version": "1.0.0",
+  "description": "Wizard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardian/ardian-module.git"
+  },
+  "keywords": [
+    "unix",
+    "node",
+    "free-software",
+    "Prishtina"
+  ]
+}
